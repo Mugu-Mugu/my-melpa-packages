@@ -3,8 +3,8 @@
 ;;; Code:
 (add-to-list 'load-path (directory-file-name (or (file-name-directory #$) (car load-path))))
 
-;;;### (autoloads nil "ace-link" "ace-link.el" (23124 19595 342149
-;;;;;;  242000))
+;;;### (autoloads nil "ace-link" "ace-link.el" (23129 11019 98276
+;;;;;;  524000))
 ;;; Generated autoloads from ace-link.el
 
 (autoload 'ace-link "ace-link" "\
